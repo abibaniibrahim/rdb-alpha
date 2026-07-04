@@ -480,3 +480,5 @@ ALTER TABLE ONLY public.star
 --
 -- PostgreSQL database dump complete
 -
+git config --global user.email "email_tuan@example.com"
+git config --global user.name "Bani Ibrahim"
